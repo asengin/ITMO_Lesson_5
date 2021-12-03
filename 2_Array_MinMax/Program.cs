@@ -27,10 +27,10 @@ namespace _2_Array_MinMax
             int minArray = array[0];
             int maxArray = array[0];
 
-            for (int i = 0; i < arrayLenght; i++) // Цикл обработки массива
+            foreach (int i in array) // Цикл обработки массива
             {
-                if (array[i] < minArray) minArray = array[i];
-                if (array[i] > maxArray) maxArray = array[i];
+                if (i < minArray) minArray = i;
+                if (i > maxArray) maxArray = i;
             }
 
             Console.WriteLine();
