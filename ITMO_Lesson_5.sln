@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Array_MinMax", "2_Array_M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Array5x5", "3_Array5x5\3_Array5x5.csproj", "{319DD82E-F5FC-4D78-B376-8BF90BB866C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Array_PlusOddNumbersCount", "4_Array_PlusOddNumbersCount\4_Array_PlusOddNumbersCount.csproj", "{C0646297-2A5C-4739-B200-EB253CD5B3E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{319DD82E-F5FC-4D78-B376-8BF90BB866C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{319DD82E-F5FC-4D78-B376-8BF90BB866C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{319DD82E-F5FC-4D78-B376-8BF90BB866C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0646297-2A5C-4739-B200-EB253CD5B3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0646297-2A5C-4739-B200-EB253CD5B3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0646297-2A5C-4739-B200-EB253CD5B3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0646297-2A5C-4739-B200-EB253CD5B3E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
