@@ -26,7 +26,7 @@ namespace _3_Array5x5
 
             for (byte i = 0; i < arrayLenght / 2 - 1; i++) //Обработка первой половины массива, упорячдочивание по возрастанию
             {
-                for (byte j = (byte)(i + 1); j < arrayLenght / 2; j++) //Разобраться почему требуется явное преобразование типов
+                for (byte j = (byte)(i + 1); j < arrayLenght / 2; j++) //Почему требуется явное преобразование типов?
                 {
                     if (array[i] > array[j])
                     {

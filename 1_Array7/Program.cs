@@ -20,7 +20,7 @@ namespace _1_Array7
             float sumArray = 0;
             for (int i = 0; i < arrayLenght; i++)
             {
-                Console.WriteLine($"Введите {i}-й элемент массива");
+                Console.WriteLine($"Введите {i+1}-й элемент массива"); // +1 нумерация не с 0 начиналась для запроса
                 array[i] = Convert.ToInt32(Console.ReadLine());
                 sumArray += array[i];
             }
