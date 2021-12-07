@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Array_PlusOddNumbersCount
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Array_0-1", "5_Array_0-1\5_Array_0-1.csproj", "{04A40D10-178F-4F24-BBAC-D48355E9135B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_MagicSqr", "6_MagicSqr\6_MagicSqr.csproj", "{70E9243D-180C-4721-8153-794D873BBADB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{04A40D10-178F-4F24-BBAC-D48355E9135B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04A40D10-178F-4F24-BBAC-D48355E9135B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04A40D10-178F-4F24-BBAC-D48355E9135B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E9243D-180C-4721-8153-794D873BBADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E9243D-180C-4721-8153-794D873BBADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E9243D-180C-4721-8153-794D873BBADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E9243D-180C-4721-8153-794D873BBADB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
